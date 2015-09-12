@@ -111,4 +111,4 @@ Levels: Control High Medium
 [1] "Control" "Medium"  "High"   
 > stripchart(1:9 ~ Treatment)
 > #relevel will also give the same functionality
-  >  
+   
